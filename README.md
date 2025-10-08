@@ -1,4 +1,4 @@
-# Seattle vs. Atlanta: Which city 'rains more' intesely vs more frequently (2018 - 2022)
+# Seattle vs. Atlanta: Which city 'rains more' intensely vs more frequently (2018 - 2022)
 
 ## Project Overview:
 This project analyzes and compares precipitation patterns between Seattle and Atlanta, challenging common precipitations nuance of rainfall pattern in these cities.  Using five years of daily precipitation data from a single station, we uncovered distinct rainfall characterisitics that provide practical insights for residents and visitor, general audience who plans to visit these cities.
