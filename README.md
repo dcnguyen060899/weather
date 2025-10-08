@@ -50,7 +50,7 @@ Our workflow summary:
 Lastly, we will also conduct statistical significant test (t-test and z-test) to double check whether what we see if in barplot by seaborn is indeed statistical different mean and proportion.
 
 ## Results
-The complete findings and conclusions from this analysis are documented in the final report: [Seattle vs Atlanta Weather Project Report (PDF)]([https://github.com/dcnguyen060899/weather/blob/main/reports/communicate_weather.pdf](https://github.com/dcnguyen060899/weather/blob/main/reports/Communicate%20the%20Results%20%7C%20Weather%20.pdf)), located in the reports folder. This report provides a comprehensive yet accessible overview of the rainfall pattern differences between the two cities, written for a general audience.
+The complete findings and conclusions from this analysis are documented in the final report: [Seattle vs Atlanta Weather Project Report (PDF)](https://github.com/dcnguyen060899/weather/blob/main/reports/communicate_weather.pdf](https://github.com/dcnguyen060899/weather/blob/main/reports/Communicate%20the%20Results%20%7C%20Weather%20.pdf), located in the reports folder. This report provides a comprehensive yet accessible overview of the rainfall pattern differences between the two cities, written for a general audience.
 
 Key takeaways from our analysis are summarized below.
 
