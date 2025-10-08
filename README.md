@@ -52,6 +52,8 @@ Lastly, we will also conduct statistical significant test (t-test and z-test) to
  ## Author
 Duy Nguyen
 
-DATA 5100 Section 1
+This project is licensed under the DATA 5100 Section 1 - Seattle Weather Project - Seattle University (MSDS)
 
-Seattle Weather Project
+
+
+
