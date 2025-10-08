@@ -68,11 +68,14 @@ Lastly, we will also conduct statistical significant test (t-test and z-test) to
 - Single weather station per city
 - Result might not represent entire metropolitan areas
 
- ## Author
-Duy Nguyen
+## Author
+**Duy Nguyen**  
+MS in Data Science - Seattle University
+Email: [dnguyen44@seattleu.edu](mailto:dnguyen44@seattleu.edu)  
+LinkedIn: [https://www.linkedin.com/in/duwe-ng/](https://www.linkedin.com/in/duwe-ng/)
 
-This project is licensed under the DATA 5100 Section 1 - Seattle Weather Project - Seattle University (MSDS)
-
+## License
+This project is licensed under the MIT License - Copyright (c) 2025 Duy Nguyen
 
 
 
