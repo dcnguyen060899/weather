@@ -32,7 +32,7 @@ The complete data preparation and cleaning process is documented in [data_cleani
 
 Our workflow summary:
 1. **Data Preparation**
-  - Standardized datatime (object -> DateTime)
+  - Standardized datatime (object -> datetime64[ns])
   - Handle missing values using historical monthly averages
   - Created a unified, cleaned dataset ready for Exploratory Data Analysis and Modelling
 2. **Missing Data Strategy**
