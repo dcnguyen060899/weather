@@ -25,7 +25,7 @@ Environment:
   - Python 3
   - Jupyter Notebook/Lab and Visual Studio Code
 
-All dependencies are listed in requirements.txt, run pip install -r requirements.txt to install lirabries.
+All dependencies are listed in [requirements.txt](https://github.com/dcnguyen060899/weather/blob/main/requirements.txt), run pip install -r requirements.txt to install lirabries.
 
 ## Analysis
 The complete data preparation and cleaning process is documented in [data_cleaning.ipynb](https://github.com/dcnguyen060899/weather/blob/main/code/data_cleaning.ipynb), while the exploratory data analysis, visualizations, and statistical testing are detailed in [eda_modelling.ipynb](https://github.com/dcnguyen060899/weather/blob/main/code/eda_modelling.ipynb). Both notebooks are located in the code folder of this repository.
