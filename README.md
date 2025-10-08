@@ -52,3 +52,4 @@ Lastly, we will also conduct statistical significant test (t-test and z-test) to
  ## Author
 Duy Nguyen
 DATA 5100 Section 1
+Seattle Weather Project
