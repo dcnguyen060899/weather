@@ -10,6 +10,21 @@ Data Sourced from the National Centers for Environment Information (NCEI):
   - Time Period: Jan 1st, 2018 - Dec 31st, 2022
   - [NCEI Data Access](https://www.ncei.noaa.gov/cdo-web/search?datasetid=GHCND)
 
+## Requirement
+This project requires the following Python packages:
+  - pandas: Data Manipulation and analysis
+  - numpy: Numerical computations
+  - matplotlib: Basic plotting and customization
+  - seaborn: Statistical visualization
+  - scipy: Statistical testing
+  - statsmodels: Advanced statistical modelling
+
+Environment:
+  - Python 3
+  - Jupyter Notebook/Lab and Visual Studio Code
+
+All dependencies are listed in requirements.txt, run pip install -r requirements.txt to install lirabries.
+
 ## Analysis
 Our workflow summary:
 1. **Data Preparation**
