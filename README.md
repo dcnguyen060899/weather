@@ -51,4 +51,4 @@ Lastly, we will also conduct statistical significant test (t-test and z-test) to
 
  ## Author
 Duy Nguyen
-DATA 5100 Section 2
+DATA 5100 Section 1
