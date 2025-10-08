@@ -10,6 +10,8 @@ Data Sourced from the National Centers for Environment Information (NCEI):
   - Time Period: Jan 1st, 2018 - Dec 31st, 2022
   - [NCEI Data Access](https://www.ncei.noaa.gov/cdo-web/search?datasetid=GHCND)
 
+The processed datasets used in this analysis are available in the data folder: [seattle_rain.csv](https://github.com/dcnguyen060899/weather/blob/main/data/seattle_rain.csv), [atlanta_ga_rain.csv](https://github.com/dcnguyen060899/weather/blob/main/data/atlanta_ga_rain.csv), and the merged dataset [clean_seattle_atlanta_rain.csv](https://github.com/dcnguyen060899/weather/blob/main/data/clean_seattle_atlanta_rain.csv).
+
 ## Requirement
 This project requires the following Python packages:
   - pandas: Data Manipulation and analysis
@@ -26,6 +28,8 @@ Environment:
 All dependencies are listed in requirements.txt, run pip install -r requirements.txt to install lirabries.
 
 ## Analysis
+The complete data preparation and cleaning process is documented in [data_cleaning.ipynb](https://github.com/dcnguyen060899/weather/blob/main/code/data_cleaning.ipynb), while the exploratory data analysis, visualizations, and statistical testing are detailed in [eda_modelling.ipynb](https://github.com/dcnguyen060899/weather/blob/main/code/eda_modelling.ipynb). Both notebooks are located in the code folder of this repository.
+
 Our workflow summary:
 1. **Data Preparation**
   - Standardized datatime (object -> DateTime)
