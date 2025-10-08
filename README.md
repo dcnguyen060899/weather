@@ -1,7 +1,7 @@
 # Seattle vs. Atlanta: Which city 'rains more' intensely vs more frequently (2018 - 2022)
 
 ## Project Overview:
-This project analyzes and compares precipitation patterns between Seattle and Atlanta, challenging common precipitations nuance of rainfall pattern in these cities.  Using five years of daily precipitation data from a single station, we uncovered distinct rainfall characterisitics that provide practical insights for residents and visitor, general audience who plans to visit these cities.
+This project analyzes and compares precipitation patterns between Seattle and Atlanta, challenging common precipitations nuance of rainfall pattern in these cities.  Using five years of daily precipitation data from a single station, we uncovered distinct rainfall characteristics that provide practical insights for residents and visitor, general audience who plans to visit these cities.
 
 ## Data
 Data Sourced from the National Centers for Environment Information (NCEI):
@@ -12,7 +12,7 @@ Data Sourced from the National Centers for Environment Information (NCEI):
 
 The processed datasets used in this analysis are available in the data folder: [seattle_rain.csv](https://github.com/dcnguyen060899/weather/blob/main/data/seattle_rain.csv), [atlanta_ga_rain.csv](https://github.com/dcnguyen060899/weather/blob/main/data/atlanta_ga_rain.csv), and the merged dataset [clean_seattle_atlanta_rain.csv](https://github.com/dcnguyen060899/weather/blob/main/data/clean_seattle_atlanta_rain.csv).
 
-## Requirement
+## Requirements
 This project requires the following Python packages:
   - pandas: Data Manipulation and analysis
   - numpy: Numerical computations
