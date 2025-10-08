@@ -71,6 +71,7 @@ Lastly, we will also conduct statistical significant test (t-test and z-test) to
 ## Author
 **Duy Nguyen**  
 MS in Data Science - Seattle University
+
 Email: [dnguyen44@seattleu.edu](mailto:dnguyen44@seattleu.edu)  
 LinkedIn: [https://www.linkedin.com/in/duwe-ng/](https://www.linkedin.com/in/duwe-ng/)
 
