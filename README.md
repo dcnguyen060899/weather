@@ -79,7 +79,7 @@ Email: [dnguyen44@seattleu.edu](mailto:dnguyen44@seattleu.edu)
 LinkedIn: [https://www.linkedin.com/in/duwe-ng/](https://www.linkedin.com/in/duwe-ng/)
 
 ## License
-This project is licensed under the MIT License - Copyright (c) 2025 Duy Nguyen
+This project is licensed under the [MIT License](https://github.com/dcnguyen060899/weather/blob/main/LICENSE) - Copyright (c) 2025 Duy Nguyen
 
 
 
